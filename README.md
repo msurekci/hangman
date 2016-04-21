@@ -5,9 +5,15 @@ This application shows a basic example of using React and some of the ecosystem 
 # Eco system
 
 #### Development
-[Babel] (https://babeljs.io/) - Transcompiler for ES6/ES7/React code. Required for browsers
+[React] (https://facebook.github.io/react/) - Library used to build our front end applications
+
+[ Babel ] (https://babeljs.io/) - Transcompiler for ES6/ES7/React code. Required for browsers
 
 [ Webpack ](https://webpack.github.io/) - Bundler to bundle JavaScript and CSS
+
+[ESLint] (http://eslint.org/) - Linting tool to make sure the JavaScript code is consistent and follows a standard.
+
+[ESLint air-bnb styles] (https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Using air-bnbs style guides. Seems to be most common the internet and good starting point for our eco system. 
 
 #### Testing
 [ Enzyme ](https://github.com/airbnb/enzyme) - Testing framework for React
