@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www && webpack",
-    "test": "mocha --compilers js:babel-register specs/.setup.js specs/*-spec.js",
+    "test": "node_modules/mocha/bin/mocha --compilers js:babel-register specs/.setup.js specs/*-spec.js",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -33,6 +33,7 @@
     "eslint-plugin-babel": "^3.0.0",
     "eslint-plugin-react": "^4.0.0",
     "jsdom": "~8.4.0",
+    "mocha": "~2.4.5",
     "react-addons-test-utils": "~15.0.1",
     "should": "~8.3.1",
     "webpack": "~1.13.0"
