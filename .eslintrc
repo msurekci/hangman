@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    "comma-dangle": 0,
+
+    //I think we should reconsider this
+    "react/prefer-es6-class": 1,
+
+    "react/prefer-stateless-function": 1,
+
+    "indent": ["error", 4]
+  }
+}
