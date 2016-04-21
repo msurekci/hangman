@@ -2,22 +2,14 @@ Hello World example using React
 =======
 This application shows a basic example of using React and some of the ecosystem CTM has currently selected to build their React Applications.
 
-# Running the application
-
-#### Clone the repoisitory 
+# Quick Start
 
 ```bash
 git clone git@github.com:ComparetheMarket/frontend.hello-world.git
-```
 
-#### Install the dependencies 
-```bash
 npm install
-```
 
-#### Start the application
-```bash
-npm install
+npm start
 ```
 
 Go to http://localhost:3000
