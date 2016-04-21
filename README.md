@@ -16,7 +16,15 @@ This application shows a basic example of using React and some of the ecosystem 
 [ESLint air-bnb styles] (https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) - Using air-bnbs style guides. Seems to be most common the internet and good starting point for our eco system. 
 
 #### Testing
-[ Enzyme ](https://github.com/airbnb/enzyme) - Testing framework for React
+[ Enzyme ](https://github.com/airbnb/enzyme) - Testing framework for React components
+
+[jsdom](https://github.com/tmpvar/jsdom) - Required to setup container to test components with Enzyme. 
+
+[Mocha](https://mochajs.org/) - Testing framework used for JavaScript
+
+[Should](https://shouldjs.github.io/) - Assertion library used for JavaScript
+
+
 
 # Quick Start
 
