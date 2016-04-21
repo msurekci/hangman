@@ -22,7 +22,7 @@ This application shows a basic example of using React and some of the ecosystem 
 
 [Mocha](https://mochajs.org/) - Testing framework used for JavaScript
 
-[Should](https://shouldjs.github.io/) - Assertion library used for JavaScript
+[ShouldJS](https://shouldjs.github.io/) - Assertion library used for JavaScript
 
 
 
