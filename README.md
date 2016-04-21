@@ -2,6 +2,16 @@ Hello World example using React
 =======
 This application shows a basic example of using React and some of the ecosystem CTM has currently selected to build their React Applications.
 
+# Eco system
+
+#### Development
+[Babel] (https://babeljs.io/) - Transcompiler for ES6/ES7/React code. Required for browsers
+
+[ Webpack ](https://webpack.github.io/) - Bundler to bundle JavaScript and CSS
+
+#### Testing
+[ Enzyme ](https://github.com/airbnb/enzyme) - Testing framework for React
+
 # Quick Start
 
 ```bash
@@ -14,7 +24,7 @@ npm start
 
 Go to http://localhost:3000
 
-# Running Tests and ESLINT
+# Running Tests and ESLint
 
 A simple test has been created to show you how to test components using air-bnbs enzyme.
 
