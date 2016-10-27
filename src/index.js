@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import HelloWorld from './HelloWorld';
+import Hangman from './Hangman';
 
 ReactDOM.render(
-    <HelloWorld />,
+    <Hangman />,
     document.getElementById('root')
 );
